@@ -6,11 +6,13 @@ permalink: /research/
 
 ### Publications
 
+Please email me for pdf copies of papers hidden behind a paywall.
+
 #### In progress 
 
-- Rodrigues MA, Paris M, Kapun M, **Durmaz E**, Kerdaffrec E, Flatt T. “The transcriptional underpinnings of the trade-off between reproduction and somatic maintenance in _Drosophila melanogaster_”, pdf available upon request. 
+- Rodrigues MA, Paris M, Kapun M, **Durmaz E**, Kerdaffrec E, Flatt T. “The transcriptional underpinnings of the trade-off between reproduction and somatic maintenance in _Drosophila melanogaster_”, _pdf available upon request._ 
 
-- Kapun M, **Durmaz E**, Kawecki T, Schmidt P, Flatt T. “An ancestrally tropical balanced inversion polymorphism confers global adaptation to warm climate”, pdf available upon request.
+- Kapun M, **Durmaz E**, Kawecki T, Schmidt P, Flatt T. “An ancestrally tropical balanced inversion polymorphism confers global adaptation to warm climate”, _pdf available upon request._
 
 #### Published 
 
