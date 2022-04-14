@@ -28,7 +28,7 @@ twitter_username: durmaz_es
 github_username:  esradm
 
 # Build settings
-remote_theme: thinkspace
+theme: academic-minima
 plugins:
   - jekyll-feed
 
