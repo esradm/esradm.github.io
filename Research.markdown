@@ -4,8 +4,4 @@ title:  "Research"
 permalink: /research/
 ---
 
-# This 
-
-## and that 
-
-### _blablabla_ 
+# this and that 
