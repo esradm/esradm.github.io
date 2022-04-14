@@ -233,8 +233,6 @@ GEM
     multipart-post (2.1.1)
     nokogiri (1.13.4-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.4-x86_64-darwin)
-      racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
@@ -267,10 +265,13 @@ GEM
       ethon (>= 0.9.0)
     tzinfo (1.2.9)
       thread_safe (~> 0.1)
+    tzinfo-data (1.2022.1)
+      tzinfo (>= 1.0.0)
     unf (0.1.4)
       unf_ext
     unf_ext (0.0.8.1)
     unicode-display_width (1.8.0)
+    wdm (0.1.1)
     zeitwerk (2.5.4)
 
 PLATFORMS
@@ -278,13 +279,13 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 225)
-  http_parser.rb (~> 0.6.0)
   jekyll (~> 3.9.0)
-  jekyll-feed (~> 0.12)
-  minima (~> 2.5)
+  jekyll-feed (~> 0.6)
+  kramdown-parser-gfm
+  minima (~> 2.0)
   tzinfo (~> 1.2)
   tzinfo-data
-  wdm (~> 0.1.1)
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    2.3.11
