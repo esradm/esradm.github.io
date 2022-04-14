@@ -4,11 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a Postdoctoral research associate at the University of Fribourg, Switzlerand. 
+I am a Postdoctoral research associate at the University of Fribourg, Switzerland. 
 
-Contact : 
-
-          esradurmaz@gmail.com
-
-          esra.durmaz@unifr.ch
-          
+Contact : esradurmaz@gmail.com
