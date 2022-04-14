@@ -8,7 +8,7 @@ permalink: /research/
 
 - Rodrigues MA, Merckelbach A, Durmaz E, Kerdaffrec E, Flatt T. Transcriptomic evidence for a trade-off between germline proliferation and immunity in Drosophila, Evolution Letters, 2021; doi:10.1002/evl3.261.
 
-- Özsoy E, Yilmaz M, Patlar B, Emecen G, Durmaz E, Magwire MM, Zhou S, Anholt RRH, Mackay TFC. Epistasis for head morphology in Drosophila melanogaster, G3 Genes|Genomes|Genetics, 2021; 11:10–jkab285.
+- Ozsoy E, Yilmaz M, Patlar B, Emecen G, Durmaz E, Magwire MM, Zhou S, Anholt RRH, Mackay TFC. Epistasis for head morphology in Drosophila melanogaster, G3 Genes|Genomes|Genetics, 2021; 11:10–jkab285.
 
 - Betancourt N, Rajpurohit S, Durmaz E, Fabian DK, Kapun M, Thomas F, Schmidt P. Allelic polymorphism at foxo contributes to local adaptation in Drosophila melanogaster, Molecular Ecology, 2021; 00:1–14.
 
