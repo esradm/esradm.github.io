@@ -13,17 +13,8 @@ Chemin du Musée 15, PER23
 
  +41 26 300 8871 
  
+
 <esra.durmaz@unifr.ch>
-
-<esradurmaz@gmail.com>
-
-[![Twitter](./imgs/twitter.png)](https://twitter.com/durmaz_es)
-
-[![GitHub](./imgs/git.png)](https://github.com/esradm)
-
-[![Orcid](./imgs/orcid.png)](https://orcid.org/0000-0002-4345-2264)
-
-
 
 [twitter](https://twitter.com/durmaz_es)
 
@@ -31,5 +22,5 @@ Chemin du Musée 15, PER23
 
 [orcid](https://orcid.org/0000-0002-4345-2264)
 
-
+     
 [back](./)
