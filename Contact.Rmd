@@ -1,5 +1,6 @@
 ---
 layout: default
+
 ---
 
 # Contact 
@@ -15,6 +16,14 @@ Chemin du Musée 15, PER23
 <esra.durmaz@unifr.ch>
 
 <esradurmaz@gmail.com>
+
+[![Twitter](./imgs/twitter.png)](https://twitter.com/durmaz_es)
+
+[![GitHub](./imgs/git.png)](https://github.com/esradm)
+
+[![Orcid](./imgs/orcid.png)](https://orcid.org/0000-0002-4345-2264)
+
+
 
 [twitter](https://twitter.com/durmaz_es)
 
