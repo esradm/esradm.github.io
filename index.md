@@ -8,8 +8,6 @@ I am an evolutionary biologist, working as a Postdoctoral Research Associate at 
 
 I am also an active member of [European Drosophila Population Genomics Consortium (DrosEU)](https://droseu.net), [500 Women Scientists](https://www.500womenscientistsfribourgbern.ch) and [EkoEvo](https://www.ekoevo.org/en/). 
 
-<br />
-
 [Research](Research)
 
 [Contact](Contact)

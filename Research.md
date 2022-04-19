@@ -3,6 +3,9 @@ layout: default
 
 ---
 
+[back](./)
+
+
 ## Publications
 
 _Please email me for pdf copies of papers hidden behind a paywall._
