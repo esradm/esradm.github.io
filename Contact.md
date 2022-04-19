@@ -22,8 +22,11 @@ Chemin du Musée 15, PER23
 
 [orcid](https://orcid.org/0000-0002-4345-2264)
 
-[GoogleScholar](https://scholar.google.com/citations?user=sOSxWwEAAAAJ&hl=en)
+[googlescholar](https://scholar.google.com/citations?user=sOSxWwEAAAAJ&hl=en)
 
+[linkedin](https://www.linkedin.com/in/esradm/)
 
-     
+<br />
+<br />
+
 [back](./)
