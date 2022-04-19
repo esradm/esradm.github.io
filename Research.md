@@ -3,7 +3,8 @@ layout: default
 
 ---
 
-### Publications
+
+# Publications
 
 _Please email me for pdf copies of papers hidden behind a paywall._
 
@@ -39,7 +40,7 @@ _Please email me for pdf copies of papers hidden behind a paywall._
 
 
 
-### Presentations at Conferences / Meetings 
+# Presentations at Conferences / Meetings 
 
 - **Durmaz E**, Kerdaffrec E, Flatt T. Experimental Evolution of an Adaptive Inversion Polymorphism, Evolution 2021, June 2021, USA / online – oral presentation
 
