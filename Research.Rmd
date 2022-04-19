@@ -7,29 +7,37 @@ layout: default
 
 _Please email me for pdf copies of papers hidden behind a paywall._
 
+
+
 #### In progress 
 
 - Rodrigues MA, Paris M, Kapun M, **Durmaz E**, Kerdaffrec E, Flatt T. “The transcriptional underpinnings of the trade-off between reproduction and somatic maintenance in _Drosophila melanogaster_”, _pdf available upon request._ 
 
 - Kapun M, **Durmaz E**, Kawecki T, Schmidt P, Flatt T. “An ancestrally tropical balanced inversion polymorphism confers global adaptation to warm climate”, _pdf available upon request._
 
+
+
 #### Published 
 
-- Rodrigues MA, Merckelbach A, **Durmaz E**, Kerdaffrec E, Flatt T. Transcriptomic evidence for a trade-off between germline proliferation and immunity in _Drosophila_, Evolution Letters, 2021; doi:10.1002/evl3.261.
+- Rodrigues MA, Merckelbach A, **Durmaz E**, Kerdaffrec E, Flatt T. Transcriptomic evidence for a trade-off between germline proliferation and immunity in _Drosophila_, Evolution Letters, 2021; [doi:10.1002/evl3.261](https://doi.org/10.1002/evl3.261).
 
-- Ozsoy E, Yilmaz M, Patlar B, Emecen G, **Durmaz E**, Magwire MM, Zhou S, Anholt RRH, Mackay TFC. Epistasis for head morphology in _Drosophila melanogaster_, G3, 2021; 11:10–jkab285.
+- Ozsoy E, Yilmaz M, Patlar B, Emecen G, **Durmaz E**, Magwire MM, Zhou S, Anholt RRH, Mackay TFC. Epistasis for head morphology in _Drosophila melanogaster_, G3, 2021; [doi:10.1093/g3journal/jkab285](https://doi.org/10.1093/g3journal/jkab285). 
 
-- Betancourt N, Rajpurohit S, **Durmaz E**, Fabian DK, Kapun M, Thomas F, Schmidt P. Allelic polymorphism at _foxo_ contributes to local adaptation in _Drosophila melanogaster_, Molecular Ecology, 2021; 00:1–14.
+- Betancourt N, Rajpurohit S, **Durmaz E**, Fabian DK, Kapun M, Thomas F, Schmidt P. Allelic polymorphism at _foxo_ contributes to local adaptation in _Drosophila melanogaster_, Molecular Ecology, 2021; 00:1–14; [doi:10.1111/mec.15939](https://doi.org/10.1111/mec.15939). 
 
-- **Durmaz E**, Kerdaffrec E, Katsianis G, Kapun M, Flatt T. How does selection act on chromosomal inversions?, eLS (Encyclopaedia of Life Sciences), 2020; 1, 307–315.
+- **Durmaz E**, Kerdaffrec E, Katsianis G, Kapun M, Flatt T. How does selection act on chromosomal inversions?, eLS (Encyclopaedia of Life Sciences), 2020; 1, 307–315; [doi:10.1002/9780470015902.a0028745](https://doi.org/10.1002/9780470015902.a0028745). 
 
-- **Durmaz E**, Rajpurohit S, Betancourt N, Fabian DK, Kapun M, Schmidt P, Thomas F. A clinal polymorphism in the insulin signaling transcription factor _foxo_ contributes to life-history adaptation in _Drosophila_, Evolution, 2019; 73-9(5):1774-1792. 
+- **Durmaz E**, Rajpurohit S, Betancourt N, Fabian DK, Kapun M, Schmidt P, Thomas F. A clinal polymorphism in the insulin signaling transcription factor _foxo_ contributes to life-history adaptation in _Drosophila_, Evolution, 2019; 73-9(5):1774-1792; [doi:10.1111/evo.13759](https://doi.org/10.1111/evo.13759). 
 
-- **Durmaz E**, Benson C, Kapun M, Schmidt P, Flatt T. An inversion supergene in _Drosophila_ underpins latitudinal clines in survival traits, Journal of Evolutionary Biology, 2018; 31(9):1354-1364.
+- **Durmaz E**, Benson C, Kapun M, Schmidt P, Flatt T. An inversion supergene in _Drosophila_ underpins latitudinal clines in survival traits, Journal of Evolutionary Biology, 2018; 31(9):1354-1364; [doi:10.1111/jeb.13310](https://doi.org/10.1111/jeb.13310). 
 
-- Kapun M, Schmidt C, **Durmaz E**, Schmidt PS, Flatt T. Parallel effects of the inversion _In(3R)Payne_ on body size across the North American and Australian clines in _Drosophila melanogaster_, Journal of Evolutionary Biology, 2016; 29(5):1059-72. 
+- Kapun M, Schmidt C, **Durmaz E**, Schmidt PS, Flatt T. Parallel effects of the inversion _In(3R)Payne_ on body size across the North American and Australian clines in _Drosophila melanogaster_, Journal of Evolutionary Biology, 2016; 29(5):1059-72; [doi:10.1111/jeb.12847](https://doi.org/10.1111/jeb.12847). 
 
-- Demirci B, **Durmaz E**, Alten B. Influence of Bloodmeal Source on Reproductive Output of the Potential West Nile Vector, _Culex theileri_ (Diptera: Culicidae), Journal of Medical Entomology, 2014, 1;51(6):1312-6.
+- Demirci B, **Durmaz E**, Alten B. Influence of Bloodmeal Source on Reproductive Output of the Potential West Nile Vector, _Culex theileri_ (Diptera: Culicidae), Journal of Medical Entomology, 2014, 1;51(6):1312-6; [doi:10.1603/ME13197](https://doi.org/10.1603/ME13197). 
+
+
+
+
 
 ### Presentations at Conferences / Meetings 
 

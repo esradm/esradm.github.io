@@ -16,9 +16,11 @@ Chemin du Musée 15, PER23
 
 <esradurmaz@gmail.com>
 
-<https://twitter.com/durmaz_es>
+[twitter](https://twitter.com/durmaz_es)
 
-<https://github.com/esradm> 
+[github](https://github.com/esradm)
+
+[orcid](https://orcid.org/0000-0002-4345-2264)
 
 
 [back](./)
