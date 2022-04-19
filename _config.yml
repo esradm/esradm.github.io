@@ -16,7 +16,7 @@
 title: Esra Durmaz Mitchell, PhD
 logo: /imgs/EDM.png
 
-description: _Switzerland, Denmark, Turkey_ # this means to ignore newlines until "baseurl:"
+# description: Switzerland, Denmark, Turkey # this means to ignore newlines until "baseurl:"
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: durmaz_es
