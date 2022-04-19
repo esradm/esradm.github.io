@@ -16,6 +16,8 @@ Chemin du Musée 15, PER23
 
 <esra.durmaz@unifr.ch>
 
+[email](mailto:esra.durmaz@unifr.ch)
+
 [twitter](https://twitter.com/durmaz_es)
 
 [github](https://github.com/esradm)
