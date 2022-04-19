@@ -34,11 +34,11 @@ _Please email me for pdf copies of papers hidden behind a paywall._
 
 - **Durmaz E**, Benson C, Kapun M, Schmidt P, Flatt T. An inversion supergene in _Drosophila_ underpins latitudinal clines in survival traits, Journal of Evolutionary Biology, 2018; 31(9):1354-1364; [doi:10.1111/jeb.13310](https://doi.org/10.1111/jeb.13310). 
 
+- **Durmaz E**. The Effects of Clinal Polymorphisms on Drosophila Life History, PhD Thesis, 2017; [University of Lausanne Open Archive](https://serval.unil.ch/resource/serval:BIB_28A5F9F48568.P001/REF.pdf). 
+
 - Kapun M, Schmidt C, **Durmaz E**, Schmidt PS, Flatt T. Parallel effects of the inversion _In(3R)Payne_ on body size across the North American and Australian clines in _Drosophila melanogaster_, Journal of Evolutionary Biology, 2016; 29(5):1059-72; [doi:10.1111/jeb.12847](https://doi.org/10.1111/jeb.12847). 
 
 - Demirci B, **Durmaz E**, Alten B. Influence of Bloodmeal Source on Reproductive Output of the Potential West Nile Vector, _Culex theileri_ (Diptera: Culicidae), Journal of Medical Entomology, 2014, 1;51(6):1312-6; [doi:10.1603/ME13197](https://doi.org/10.1603/ME13197). 
-
-
 
 
 
@@ -93,6 +93,7 @@ _Please email me for pdf copies of papers hidden behind a paywall._
 - Hiroto Kameyama H, **Durmaz E**, Hanna G, Markow T. Sperm length predicts female sperm loads in _Drosophila_ species in the wild, 54th Annual Drosophila Research Conference, April 2013 Washington, DC. USA – contribution, poster presentation
 
 - **Durmaz E**, Ozsoy E, Markow T. The effect of mating status on environmental stress factors in genetically different natural populations of _Drosophila subobscura_ (Drosophilidae, Diptera), 21th National Congress of Biology, September 2012, Izmir, Turkey – poster presentation
+
 
 
 [back](./)
