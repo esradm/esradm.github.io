@@ -34,7 +34,7 @@ _Please email me for pdf copies of papers hidden behind a paywall._
 
 - **Durmaz E**, Benson C, Kapun M, Schmidt P, Flatt T. An inversion supergene in _Drosophila_ underpins latitudinal clines in survival traits, Journal of Evolutionary Biology, 2018; 31(9):1354-1364; [doi:10.1111/jeb.13310](https://doi.org/10.1111/jeb.13310). 
 
-- **Durmaz E**. The Effects of Clinal Polymorphisms on Drosophila Life History, PhD Thesis, 2017; [University of Lausanne Open Archive](https://serval.unil.ch/resource/serval:BIB_28A5F9F48568.P001/REF.pdf). 
+- **Durmaz E**. The Effects of Clinal Polymorphisms on _Drosophila_ Life History, PhD Thesis, 2017; [University of Lausanne Open Archive](https://serval.unil.ch/resource/serval:BIB_28A5F9F48568.P001/REF.pdf). 
 
 - Kapun M, Schmidt C, **Durmaz E**, Schmidt PS, Flatt T. Parallel effects of the inversion _In(3R)Payne_ on body size across the North American and Australian clines in _Drosophila melanogaster_, Journal of Evolutionary Biology, 2016; 29(5):1059-72; [doi:10.1111/jeb.12847](https://doi.org/10.1111/jeb.12847). 
 
