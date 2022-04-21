@@ -16,6 +16,6 @@ I am also an active member of [European Drosophila Population Genomics Consortiu
 
 __News__ 
 
-Join us at the [DrosEU/ESEB STN Summer school](https://droseu.net/droseu-eseb-stn-summer-school-integrating-omics-approaches-for-eco-evolutionary-research/) : “Integrating -omics approaches for eco-evolutionary research” in Prague, immediately before the #eseb2022 meeting
+Join us at the [DrosEU/ESEB STN Summer school](https://droseu.net/droseu-eseb-stn-summer-school-integrating-omics-approaches-for-eco-evolutionary-research/) : “Integrating -omics approaches for eco-evolutionary research” in Prague, immediately before the [ESEB 2022](https://www.eseb2022.cz) meeting.
 
 EkoEvo e-bültenin [5. sayısı](https://drive.google.com/file/d/1n84WuXBK4x_bGwV8sP53JAQ6imRhf_2A/view) yayınlandı! 
