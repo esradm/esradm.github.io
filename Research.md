@@ -9,7 +9,7 @@ layout: default
 
 _Please email me for pdf copies of papers hidden behind a paywall._
 
-Full CV [here](/imgs/EDM_CV_June22.pdf) 
+Full CV [here](/imgs/EDM_CV_202209.pdf) 
 
 #### In progress 
 
@@ -42,6 +42,8 @@ Full CV [here](/imgs/EDM_CV_June22.pdf)
 
 
 ## Presentations at Conferences / Meetings 
+
+- **Durmaz E**, Kerdaffrec E, Flatt T. “The forces maintaining a balanced inversion polymorphism”, ESEB 2022, August 2022, Prague, Czech Republic – poster presentation 
 
 - **Durmaz E**, Kerdaffrec E, Flatt T. Experimental Evolution of an Adaptive Inversion Polymorphism, Evolution 2021, June 2021, USA / online – oral presentation
 
