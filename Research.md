@@ -9,7 +9,7 @@ layout: default
 
 _Please email me for pdf copies of papers hidden behind a paywall._
 
-Full CV [here](/imgs/EDM_CV_202209.pdf) 
+Full CV [here](/imgs/EDM_CV_202212.pdf) 
 
 #### In progress 
 

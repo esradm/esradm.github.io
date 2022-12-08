@@ -6,16 +6,16 @@ layout: default
 
 ## Contact 
 
-Department of Biology, University of Fribourg
 
-Chemin du Musée 15, PER23 
 
-1700, Fribourg, Switzerland
+University of Southern Denmark, Department of Biochemistry and Molecular Biology
 
- +41 26 300 8871 
- 
+Campusvej 55, DK-5230 Odense M, Denmark
 
-[Email](mailto:esra.durmaz@unifr.ch)
++45 65 50 49 69 (office)
+
+
+[Email](mailto:esra@bmb.sdu.dk)
 
 [Twitter](https://twitter.com/durmaz_es)
 

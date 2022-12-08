@@ -4,7 +4,7 @@ layout: default
 
 <br />
 
-I am an evolutionary biologist, working as a Senior Researcher at the [University of Fribourg](https://www.unifr.ch/bio/en/research/eco-evol/flatt.html), Switzerland. 
+I am a postdoctoral researcher working at the University of Southern Denamrk, Department of Biochemistry and Molecular Biology, [Functional Genomics & Metabolism Research Unit](https://www.sdu.dk/en/forskning/functional-genomics). 
 
 I am also an active member of [European Drosophila Population Genomics Consortium (DrosEU)](https://droseu.net), [500 Women Scientists](https://www.500womenscientistsfribourgbern.ch) and [EkoEvo](https://www.ekoevo.org/en/). 
 
