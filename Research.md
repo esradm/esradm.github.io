@@ -15,9 +15,7 @@ Full CV [here](/imgs/EDM_CV_202212.pdf)
 
 - Rodrigues MA, Paris M, Kapun M, **Durmaz E**, Kerdaffrec E, Flatt T. “The transcriptional underpinnings of the trade-off between reproduction and somatic maintenance in _Drosophila melanogaster_”, _pdf available upon request._ 
 
-- Kapun M, **Durmaz E**, Kawecki T, Schmidt P, Flatt T. “An ancestrally tropical balanced inversion polymorphism confers global adaptation to warm climate”, _pdf available upon request._
-
-
+- Kapun M, **Durmaz E**, Kawecki T, Schmidt P, Flatt T. “An ancestrally tropical balanced inversion polymorphism confers global adaptation to warm climate”, [https://www.biorxiv.org/content/10.1101/2023.01.31.526462v1](https://www.biorxiv.org/content/10.1101/2023.01.31.526462v1).
 
 #### Published 
 
