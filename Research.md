@@ -9,15 +9,26 @@ layout: default
 
 _Please email me for pdf copies of papers hidden behind a paywall._
 
-Full CV [here](/imgs/EDM_CV_202212.pdf) 
+Full CV [here](/imgs/EDM_CV_March25.pdf) 
 
 #### In progress 
 
-- Rodrigues MA, Paris M, Kapun M, **Durmaz E**, Kerdaffrec E, Flatt T. “The transcriptional underpinnings of the trade-off between reproduction and somatic maintenance in _Drosophila melanogaster_”, _pdf available upon request._ 
+- Durmaz Mitchell E, et al. “Continent-wide Differentiation of Fitness Traits and Patterns of Climate Adaptation among European Populations of Drosophila melanogaster”, 2025, under revision at Evolution Letters.
 
-- Kapun M, **Durmaz E**, Kawecki T, Schmidt P, Flatt T. “An ancestrally tropical balanced inversion polymorphism confers global adaptation to warm climate”, [https://www.biorxiv.org/content/10.1101/2023.01.31.526462v1](https://www.biorxiv.org/content/10.1101/2023.01.31.526462v1).
+- Nunez, Coronado-Zamora, et al. “Footprints of worldwide adaptation in structured populations of D. melanogaster through the expanded DEST 2.0 genomic resource”, 2025, under revision at Molecular Biology and Evolution. 
+
+- Durmaz Mitchell E, Kerdaffrec E, Kittelmann S, Schmidt P, Flatt T. “A balanced inversion polymorphism exhibits dominance reversals at the gene expression level that depend on developmental context”, 2025, under revision at Molecular Biology and Evolution.
+
+- Paris M, Durmaz Mitchell E, Kerdaffrec E, Rubin D, Spichtig C, Zurbriggen F, Becker J, Augustijnen H, Harshavardhan T, Zinn E, Gagliardi F, Gobet E, Rey T, Rime Y, Machado SR, Bachmann J, Sgammeglia N, Schmidt P, Flatt T. “Multiple forms of balancing selection maintain inversion polymorphism”, 2025, under revision at Heredity.
+
 
 #### Published 
+
+- Rodrigues MA, Dauphin-Villemant, C Paris M, Kapun M, Durmaz Mitchell E, Kerdaffrec E, Flatt T. “Germline proliferation trades off with lipid metabolism in Drosophila”, Evolution Letters, 2024; [doi.org/10.1093/evlett/qrad059](https://doi.org/10.1093/evlett/qrad059).
+
+- Berdan EL, Barton NH, Butlin R, Charlesworth B, Faria R, Fragata I, Gilbert KJ, Jay P, Kapun M, Lotterhos K E, Mérot C, Durmaz Mitchell E, Pascual M, Peichel CL, Rafajlović M, Westram AM, Schaeffer SW, Johannesson K, & Flatt T (2023). “How chromosomal inversions reorient the evolutionary process”, Journal of Evolutionary Biology, 36, 1761–1782; [doi.org/10.1111/jeb.14242](https://doi.org/10.1111/jeb.14242).
+
+- Kapun M, Durmaz Mitchell E, Kawecki T, Schmidt P, Flatt T. “An ancestral balanced inversion polymorphism confers global adaptation”, Molecular Biology and Evolution, 2023; [doi.org/10.1093/molbev/msad118](https://doi.org/10.1093/molbev/msad118)
 
 - Rodrigues MA, Merckelbach A, **Durmaz E**, Kerdaffrec E, Flatt T. Transcriptomic evidence for a trade-off between germline proliferation and immunity in _Drosophila_, Evolution Letters, 2021; [doi:10.1002/evl3.261](https://doi.org/10.1002/evl3.261).
 
