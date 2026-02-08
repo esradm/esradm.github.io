@@ -13,7 +13,7 @@ Full CV [here](/imgs/EDM_CV_Feb26.pdf)
 
 
 
-- Cetnarowska, A., Hyldahl, M., Nygård, M., Dashti, H., Hansen, B. V., Holm, L., Madsen, K., Madsen, M., Shukla, V., **Durmaz Mitchell, E.**, Rauch, A., Madsen, J., Claussnitzer, M., & Mandrup, S. (in press). Extensive enhancer crosstalk controls PPARG2 activation during adipogenesis ***in press***, Nature Communications. 
+- Cetnarowska, A., Hyldahl, M., Nygård, M., Dashti, H., Hansen, B. V., Holm, L., Madsen, K., Madsen, M., Shukla, V., **Durmaz Mitchell, E.**, Rauch, A., Madsen, J., Claussnitzer, M., & Mandrup, S. Extensive enhancer crosstalk controls PPARG2 activation during adipogenesis ***in press***, Nature Communications. 
 
 - Núñez, J. C. B., Coronado-Zamora, M., Gautier, M., … Kerdaffrec, E., **Durmaz Mitchell, E.**, … Flatt, T., Bergland, A. O., & González, J. (2025). Footprints of worldwide adaptation in structured populations of Drosophila melanogaster through the expanded DEST 2.0 genomic resource. Molecular Biology and Evolution, 42(8), msaf132. [doi.org/10.1093/molbev/msaf132](https://doi.org/10.1093/molbev/msaf132)  
 
